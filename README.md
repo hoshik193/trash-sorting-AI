@@ -3,3 +3,5 @@ A small side project that can sort trash into 6 categories: Trash, Cardboard, Pa
 
 Currently Works Only In Python 3.11.7 and Tensorflow 2.12.1
 Download The "Model" Directory And Run Main.py
+
+You Can Tweak The AI's Accuracy By Downloading "project.tm" And Modifying The Data Sets
