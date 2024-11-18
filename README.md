@@ -5,4 +5,4 @@ Currently Works Only In Python 3.11.7 and Tensorflow 2.12.1
 Download The "Model" Directory And Run Main.py
 
 You Can Tweak The AI's Accuracy By Downloading The File Below From Google Drive And Modifying The Data Sets
-Teachable Machine Project File: [https://drive.google.com/file/d/1l2SPHarreUfNQMtqMwkmIFP3Pp7ChQT2/view?usp=sharing](url)
+Teachable Machine Project File: https://drive.google.com/file/d/1l2SPHarreUfNQMtqMwkmIFP3Pp7ChQT2/view?usp=sharing
